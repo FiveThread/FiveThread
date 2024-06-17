@@ -1,11 +1,12 @@
 ## Ello
 
+$${\color{red}Red}$$
+
 My name is **fiveThread** and i like using **C** :)
 Check out my cool projects
 
 ## HERE A FUNNY IMAGE
 ![alt text](https://github.com/FiveThread/WorstWebsiteEver/blob/main/images/random_images/death.png)
-$${\color{red}Red}$$
 
 <!--
 **FiveThread/FiveThread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
