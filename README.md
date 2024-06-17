@@ -6,6 +6,8 @@ Check out my cool projects
 ## HERE A FUNNY IMAGE
 ![alt text](https://github.com/FiveThread/WorstWebsiteEver/blob/main/images/random_images/death.png)
 
+<center>This text is centered.</center>
+
 
 <!--
 **FiveThread/FiveThread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
